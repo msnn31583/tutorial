@@ -2,5 +2,8 @@ Rencana konten
 - Javascript
   * ES6
   * Framework JS
+   - Angular
+   - React
 - PHP Framework
+ * Laravel
 - Interview
