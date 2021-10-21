@@ -3,6 +3,7 @@ Rencana konten
   * ES6
   * Framework JS
   -Vue
+  -React
 - PHP Framework
  * Laravel
 - Interview
